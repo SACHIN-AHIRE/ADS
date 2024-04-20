@@ -1,3 +1,5 @@
+//Write implementation of below sorting algorithms 
+//5. Heap Sort 
 
 class HeapSort
 {

@@ -1,3 +1,5 @@
+//Write implementation of below sorting algorithms 
+//6. Insertion Sort
 
 class InsertionSort
 {

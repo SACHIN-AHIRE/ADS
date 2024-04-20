@@ -1,3 +1,5 @@
+//Write implementation of below sorting algorithms 
+//8. Quick Sort 
 
 class QuickSort
 {

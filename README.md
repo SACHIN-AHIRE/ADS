@@ -1,2 +1,2 @@
 # ADS
-I solve DSA assignments using java
+I solve DSA Assignments Using Java

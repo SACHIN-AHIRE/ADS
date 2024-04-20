@@ -1,3 +1,5 @@
+//Write implementation of below sorting algorithms 
+//7. Merge Sort 
 
 class MergeSort
 {
